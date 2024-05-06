@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "ClestThor <clestthor@groups.outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
